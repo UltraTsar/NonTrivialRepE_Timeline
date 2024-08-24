@@ -1,5 +1,5 @@
 # NonTrivialRepE_Timeline
-Non-Trivial Fellowship repository for "A Timeline on Representation Engineering"
+Non-Trivial Fellowship repository for "An Analysis of Plasticity in Large Language Models (LLMs) via Representation Engineering"
 
 
 ## Abstract
