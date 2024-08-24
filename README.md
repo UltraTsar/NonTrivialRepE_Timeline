@@ -1,2 +1,7 @@
 # NonTrivialRepE_Timeline
 Non-Trivial Fellowship repository for "A Timeline on Representation Engineering"
+
+
+## Abstract
+
+Understanding the plasticity of large language models (LLMs) during fine-tuning is critical for improving their capacity to generalize and adapt to various tasks. Representation Engineering (RepE) has emerged as a novel approach to interrogating and manipulating internal model representations, allowing alignment researchers to steer models toward desired behaviors without requiring extensive retraining. This paper investigates the plasticity of LLMs by leveraging steering vectors, extracted at distinct stages of fine-tuning, and applying them to assess how model behavior evolves over time. We specifically look at the model’s representations of “honesty”. We conduct systematic analyses to determine whether representations remain pliable or stabilize into rigid configurations across training. While our results suggest that initial fine-tuning stages exhibit high plasticity, leading to substantial shifts in internal representations, later stages also show increased responsiveness to steering, implying a degree of convergence in the learned representations. This work provides insight into how and when interventions in fine-tuning can most effectively guide LLMs, contributing to the broader understanding of model plasticity and offering practical guidance for fine-tuning strategies aimed at optimizing downstream performance.
